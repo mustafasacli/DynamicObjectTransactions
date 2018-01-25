@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicObjectTransactions", "DynamicObjectTransactions\DynamicObjectTransactions.csproj", "{080BE612-E927-47E1-9D18-2444615D689D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicBase", "DynamicBase\DynamicBase.csproj", "{8DBB1969-46E6-4703-9916-E072C0F5B069}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{080BE612-E927-47E1-9D18-2444615D689D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{080BE612-E927-47E1-9D18-2444615D689D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{080BE612-E927-47E1-9D18-2444615D689D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{080BE612-E927-47E1-9D18-2444615D689D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DBB1969-46E6-4703-9916-E072C0F5B069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DBB1969-46E6-4703-9916-E072C0F5B069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DBB1969-46E6-4703-9916-E072C0F5B069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DBB1969-46E6-4703-9916-E072C0F5B069}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
